@@ -1,0 +1,107 @@
+Log: jeyes 2023-10-16 13:32:09.594052
+	Application Booted
+Log: jeyes 2023-10-16 13:32:27.423827
+	Folder Selected: C:/Users/jeyes/Music/CPS
+Log: jeyes 2023-10-16 13:32:28.776103
+	Baselines Folder Created
+	for Dir: C:/Users/jeyes/Music/CPS
+	in Dir: C:\Users\jeyes\Desktop\baselines\998f65307fbec8692d40521adc6d3781f4602a3d.txt
+Log: jeyes 2023-10-16 13:32:32.247084
+	Integrity Checked with the following result ->
+	for Dir: C:/Users/jeyes/Music/CPS
+Log: jeyes 2023-10-16 13:32:43.935998
+	Integrity Checked with the following result ->
+	for Dir: C:/Users/jeyes/Music/CPS
+Log: jeyes 2023-10-16 13:32:45.036674
+	Integrity Checked with the following result ->
+	for Dir: C:/Users/jeyes/Music/CPS
+Log: jeyes 2023-10-16 13:32:49.482472
+	Integrity Checked with the following result ->
+	for Dir: C:/Users/jeyes/Music/CPS
+Log: jeyes 2023-10-16 13:32:49.874171
+	Integrity Checked with the following result ->
+	for Dir: C:/Users/jeyes/Music/CPS
+Log: jeyes 2023-10-16 13:33:07.359491
+	Integrity Checked with the following result ->
+	for Dir: C:/Users/jeyes/Music/CPS
+	Files were Removed
+Log: jeyes 2023-10-16 13:33:26.701311
+	Integrity Checked with the following result ->
+	for Dir: C:/Users/jeyes/Music/CPS
+	Files were Added
+	Files were Removed
+Log: jeyes 2023-10-16 13:33:28.576716
+	Integrity Checked with the following result ->
+	for Dir: C:/Users/jeyes/Music/CPS
+	Files were Added
+	Files were Removed
+Log: jeyes 2023-10-16 13:33:36.638061
+	Integrity Checked with the following result ->
+	for Dir: C:/Users/jeyes/Music/CPS
+	Files were Added
+	Files were Removed
+Log: jeyes 2023-10-16 13:33:37.375300
+	Integrity Checked with the following result ->
+	for Dir: C:/Users/jeyes/Music/CPS
+	Files were Added
+	Files were Removed
+Log: jeyes 2023-10-16 13:33:41.625937
+	Integrity Checked with the following result ->
+	for Dir: C:/Users/jeyes/Music/CPS
+	Files were Added
+	Files were Removed
+Log: jeyes 2023-10-16 13:33:42.206826
+	Integrity Checked with the following result ->
+	for Dir: C:/Users/jeyes/Music/CPS
+	Files were Added
+	Files were Removed
+Log: jeyes 2023-10-16 13:33:42.363561
+	Integrity Checked with the following result ->
+	for Dir: C:/Users/jeyes/Music/CPS
+	Files were Added
+	Files were Removed
+Log: jeyes 2023-10-16 13:33:42.536856
+	Integrity Checked with the following result ->
+	for Dir: C:/Users/jeyes/Music/CPS
+	Files were Added
+	Files were Removed
+Log: jeyes 2023-10-16 13:33:42.695002
+	Integrity Checked with the following result ->
+	for Dir: C:/Users/jeyes/Music/CPS
+	Files were Added
+	Files were Removed
+Log: jeyes 2023-10-16 13:33:42.913542
+	Integrity Checked with the following result ->
+	for Dir: C:/Users/jeyes/Music/CPS
+	Files were Added
+	Files were Removed
+Log: jeyes 2023-10-16 13:33:43.963674
+	Baseline Updated
+	for Dir: C:/Users/jeyes/Music/CPS
+	in Dir: C:\Users\jeyes\Desktop\baselines\998f65307fbec8692d40521adc6d3781f4602a3d.txt
+Log: jeyes 2023-10-16 13:33:45.109735
+	Integrity Checked with the following result ->
+	for Dir: C:/Users/jeyes/Music/CPS
+Log: jeyes 2023-10-16 13:33:45.839408
+	Integrity Checked with the following result ->
+	for Dir: C:/Users/jeyes/Music/CPS
+Log: jeyes 2023-10-16 13:34:04.702771
+	Integrity Checked with the following result ->
+	for Dir: C:/Users/jeyes/Music/CPS
+	Files were Modified
+Log: jeyes 2023-10-16 13:34:08.149214
+	Application Closed
+Log: jeyes 2023-10-16 13:45:49.744759
+	Application Booted
+Log: jeyes 2023-10-16 13:46:28.726460
+	Folder Selected: C:/Users/jeyes/OneDrive/Documents/DESIGN-PROJECT/File-Boss/EXAMPLE
+Log: jeyes 2023-10-16 14:02:38.886772
+	Application Closed
+Log: jeyes 2023-10-16 14:04:40.221594
+	Application Booted
+Log: jeyes 2023-10-16 14:04:51.062788
+	Application Closed
+Log: jeyes 2023-10-16 14:05:16.982343
+	Application Booted
+Log: jeyes 2023-10-16 14:06:03.742685
+	Application Closed
