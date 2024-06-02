@@ -9,7 +9,7 @@ This project stands as a solution dedicated to upholding the security and reliab
 ### Contributors
 <p align="left">
 <a href="https://www.linkedin.com/in/vignesh-m-a56a8a1a0/" target="blank"><img align="center" src="https://i.ibb.co/n3gHR3C/vicky-png.png" alt="Vignesh M" height="75" width="75" /></a> &nbsp; &nbsp;
-<a href="https://www.linkedin.com/in/jeyavasan-t/" target="blank"><img align="center" src="https://i.ibb.co/5hWwmNV/jeyesh-png.png" alt="Vignesh M" height="75" width="75" /></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/jeyavasan-t/" target="blank"><img align="center" src="https://i.ibb.co/5hWwmNV/jeyesh-png.png" alt="Jeyesh T height="75" width="75" /></a> &nbsp; &nbsp;
 
 ---
 ### How to run
